@@ -1,3 +1,10 @@
+# Portfolio Website
+
+[![View Live Site](https://img.shields.io/badge/View-Live%20Site-green?style=for-the-badge&logo=github)](https://amarachi-flora.github.io)
+
+This is my personal portfolio built with HTML5 UP’s "Massive" template and customized using VS Code + GitHub Pages.
+
+
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
